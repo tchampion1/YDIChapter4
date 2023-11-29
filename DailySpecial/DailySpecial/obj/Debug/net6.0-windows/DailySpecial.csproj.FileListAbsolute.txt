@@ -1,0 +1,16 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.Form1.resources
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.csproj.GenerateResource.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.AssemblyInfoInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.AssemblyInfo.cs
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.deps.json
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.runtimeconfig.json
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.dll
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.dll
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\refint\DailySpecial.dll
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.genruntimeconfig.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\DailySpecial\DailySpecial\obj\Debug\net6.0-windows\ref\DailySpecial.dll

@@ -1,0 +1,7 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.pdb
